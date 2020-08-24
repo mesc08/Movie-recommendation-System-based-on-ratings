@@ -1,4 +1,4 @@
-# Movie-recommendation-System-based-on-reviews
+# Movie-recommendation-System-based-on-ratings
 
 ## Aim :
   Was to find the movies based on the reviews.
