@@ -7,7 +7,7 @@
   This system works on the property that movies which have high correlation and have rating count > 100 will be counted for the recommended list.
 ## Technology Stack used:
 ### Language:
-    ```Python```
+     Python
  
 ### Framework:
   ```Jupyter Notebook```
